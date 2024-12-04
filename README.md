@@ -2,6 +2,8 @@
 
 Реализация LSM tree хранилища key-value.
 
+Контракты в [репозитории](https://github.com/ksenia-samarina/protoFiles).
+
 Чтобы запустить, необходимо прописать переменную окружения:
 
 ```bash
