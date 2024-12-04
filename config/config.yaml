@@ -1,0 +1,10 @@
+grpc:
+  port: 44044
+  timeout: 10h
+mem_table_config:
+  btreeSize: 1000000
+  maxMemTableSize: 10
+bloom_filter_config:
+  bloomFilterN: 1000000
+  bloomFilterFp: 0.01
+storagePath: "./storage"
